@@ -16,5 +16,5 @@
 
 [维度模型设计](https://github.com/cherryvski/HowToBuildYourOwnDataWarehouse/blob/main/doc/3.md)
 
-## 如何规范维度建模的过程
+## 如何保障维度模型的质量
 
