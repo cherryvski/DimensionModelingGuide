@@ -10,11 +10,11 @@
 
 ## 如何进行维度建模
 
-[业务需求调研](HowToBuildYourOwnDataWarehouse\doc\1.md)
+[业务需求调研](https://github.com/cherryvski/HowToBuildYourOwnDataWarehouse/blob/main/doc/1.md)
 
-[总线矩阵设计](HowToBuildYourOwnDataWarehouse\doc\2.md)
+[总线矩阵设计](https://github.com/cherryvski/HowToBuildYourOwnDataWarehouse/blob/main/doc/2.md)
 
-[维度模型设计](HowToBuildYourOwnDataWarehouse\doc\3.md)
+[维度模型设计](https://github.com/cherryvski/HowToBuildYourOwnDataWarehouse/blob/main/doc/3.md)
 
 ## 如何规范维度建模的过程
 
