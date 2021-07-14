@@ -1,4 +1,4 @@
-# HowToBuildYourOwnDataWarehouse
+# DimensionModelingGuide
 
 本项目将讲述如何进行维度建模。
 
