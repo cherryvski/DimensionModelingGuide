@@ -20,4 +20,4 @@
 
 [维度模型设计](https://github.com/cherryvski/HowToBuildYourOwnDataWarehouse/blob/main/doc/3.md)
 
-## 如何进行数据治理
+## 如何对维度建模进行评价
